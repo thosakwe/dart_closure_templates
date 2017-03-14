@@ -1,2 +1,2 @@
-# dart_closure_templates
+# dart_tofu
 Closure template compiler for Dart.
